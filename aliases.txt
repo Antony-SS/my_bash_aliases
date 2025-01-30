@@ -1,0 +1,7 @@
+
+# git
+alias gs='git status'
+alias gc='git commit'
+
+# command line
+alias 
